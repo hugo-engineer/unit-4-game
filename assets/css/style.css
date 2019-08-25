@@ -1,0 +1,18 @@
+
+p {
+    white-space: normal;
+
+}
+
+.header {
+   text-align: center;
+}
+
+.score-board {
+    min-height: 300px;
+    
+}
+
+h3 {
+    width: 100%;
+}
